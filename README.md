@@ -42,13 +42,13 @@ The “EmployeeSQL” folder contains the following subfolders:
 Please note, I used in-class activities/notes and the following resources to complete my assignments:
 
 Quick database diagrams: 
-
 https://www.quickdatabasediagrams.com/blog/blog-post-title-one-trfsp
+
 https://www.quickdatabasediagrams.com/blog/blog-post-title-one-trfsp 
 
 Stack Overflow:
-
 https://stackoverflow.com/questions/13997365/sql-joins-as-venn-diagram
-https://stackoverflow.com/questions/36203613/how-to-extract-year-from-date-in-postgresql
- https://stackoverflow.com/questions/63095867/how-to-get-the-frequency-in-postgresql
 
+https://stackoverflow.com/questions/36203613/how-to-extract-year-from-date-in-postgresql
+
+ https://stackoverflow.com/questions/63095867/how-to-get-the-frequency-in-postgresql
